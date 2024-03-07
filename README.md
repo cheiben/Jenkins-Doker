@@ -2,10 +2,10 @@
 
 1 .Building blueocean docker image
 
-docker build -t myjenkins-blueocean:2.440.1-1 . 
+run command 
+==>  docker build -t myjenkins-blueocean:2.440.1-1 . 
 
 ## 2.440.1.1 version from Jenkins https://www.jenkins.io/doc/book/installing/docker/
-
 
 
 2. Create Network jenkins
