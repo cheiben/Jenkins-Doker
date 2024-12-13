@@ -1,5 +1,3 @@
-Sure! If you'd like to remove the CI/CD option and keep the process manual for now, here's a simplified version of the workflow using only `main` and `stable` branches without automation:
-
 ### **Final Git Branching Strategy**
 
 1. **`main` (Production Inversion)**:
